@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b05282bd.css",
+    "main.js": "/static/js/main.bb7e445b.js",
+    "static/media/blueBagForGirlsBlureedition.jpeg": "/static/media/blueBagForGirlsBlureedition.753f5cd22aadffcafd77.jpeg",
+    "static/media/purpleBagForGirlsMorelli.jpeg": "/static/media/purpleBagForGirlsMorelli.c01de72298843d7ad7ad.jpeg",
+    "static/media/blackPortmoneForManMorelliSecond.jpg": "/static/media/blackPortmoneForManMorelliSecond.9b71ff5718cb74646c60.jpg",
+    "static/media/blackPortmoneForManMorelli.jpg": "/static/media/blackPortmoneForManMorelli.5f042a5729d846028e8e.jpg",
+    "static/media/mobileImageSamsung.png": "/static/media/mobileImageSamsung.e25a20a8cecffbab85bd.png",
+    "static/media/redBagForGirlsOrigpunch.jpg": "/static/media/redBagForGirlsOrigpunch.980990095cd3dd7dc423.jpg",
+    "static/media/mobileImageXiaomi.png": "/static/media/mobileImageXiaomi.115c54239566ded18e65.png",
+    "static/media/mobileImageIphone.png": "/static/media/mobileImageIphone.511943c5f2660034f0dd.png",
+    "static/media/purpleBagForGirlsMorelliSecond.jpg": "/static/media/purpleBagForGirlsMorelliSecond.d3a8379f3fe516a3ba28.jpg",
+    "static/media/purpleBagForGirlsBluefaceSecond.jpg": "/static/media/purpleBagForGirlsBluefaceSecond.6501c6f4b7394da10dac.jpg",
+    "static/media/blueBagForGirlsBlureeditionSecond.jpg": "/static/media/blueBagForGirlsBlureeditionSecond.8290d157d642edc7ca66.jpg",
+    "static/media/sonicImage.jpg": "/static/media/sonicImage.901748f3ff635b90c31d.jpg",
+    "static/media/purpleBagForGirlsBlueface.jpg": "/static/media/purpleBagForGirlsBlueface.2f79e7cf452dfccf38a0.jpg",
+    "static/media/CSSicon.png": "/static/media/CSSicon.e26e4662339b2e3e082f.png",
+    "static/media/JSicon.png": "/static/media/JSicon.aacb518f397701024cec.png",
+    "static/media/redBagForGirlsOrigpunchSecond.jpg": "/static/media/redBagForGirlsOrigpunchSecond.ce2c48712f19a37c23bd.jpg",
+    "static/media/Htmlicon.png": "/static/media/Htmlicon.e0aa11eb293ba3a6682f.png",
+    "static/media/Location.png": "/static/media/Location.10440bb8b3a84d57d0bb.png",
+    "static/media/arrow.png": "/static/media/arrow.d6c3b4608b70a16d78c4.png",
+    "static/media/filterIcon.png": "/static/media/filterIcon.ac08ebfb5e741447fdec.png",
+    "static/media/arrowActive.png": "/static/media/arrowActive.5a33ee75c4074f6406d4.png",
+    "index.html": "/index.html",
+    "main.b05282bd.css.map": "/static/css/main.b05282bd.css.map",
+    "main.bb7e445b.js.map": "/static/js/main.bb7e445b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05282bd.css",
+    "static/js/main.bb7e445b.js"
+  ]
+}
