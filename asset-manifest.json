@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b05282bd.css",
-    "main.js": "/static/js/main.bb7e445b.js",
+    "main.css": "/static/css/main.e8b116d5.css",
+    "main.js": "/static/js/main.23fef2e2.js",
     "static/media/blueBagForGirlsBlureedition.jpeg": "/static/media/blueBagForGirlsBlureedition.753f5cd22aadffcafd77.jpeg",
     "static/media/purpleBagForGirlsMorelli.jpeg": "/static/media/purpleBagForGirlsMorelli.c01de72298843d7ad7ad.jpeg",
     "static/media/blackPortmoneForManMorelliSecond.jpg": "/static/media/blackPortmoneForManMorelliSecond.9b71ff5718cb74646c60.jpg",
@@ -24,11 +24,11 @@
     "static/media/filterIcon.png": "/static/media/filterIcon.ac08ebfb5e741447fdec.png",
     "static/media/arrowActive.png": "/static/media/arrowActive.5a33ee75c4074f6406d4.png",
     "index.html": "/index.html",
-    "main.b05282bd.css.map": "/static/css/main.b05282bd.css.map",
-    "main.bb7e445b.js.map": "/static/js/main.bb7e445b.js.map"
+    "main.e8b116d5.css.map": "/static/css/main.e8b116d5.css.map",
+    "main.23fef2e2.js.map": "/static/js/main.23fef2e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b05282bd.css",
-    "static/js/main.bb7e445b.js"
+    "static/css/main.e8b116d5.css",
+    "static/js/main.23fef2e2.js"
   ]
 }
